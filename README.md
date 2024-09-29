@@ -1,4 +1,4 @@
-#Project02 : PlanIT Event Management System
+# Project02 : PlanIT Event Management System
 
 
 Team member
