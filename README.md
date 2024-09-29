@@ -79,6 +79,8 @@ Event editing page with fields to modify the event name, date, start and end tim
 <h1>Screen 12 : Organizer Info </h1> 
 
 ![Info](./screen12.png)
+![Info](./screen13.png)
+
 
 Same as Screen 4 —allows users to edit their profile information.
 
