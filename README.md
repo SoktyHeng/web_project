@@ -9,7 +9,7 @@ LeangHour Ly: https://github.com/llh1230507/web_project
 
 Sokty Heng: https://github.com/SoktyHeng/web_project
 
-Somavatey Heng:
+Somavatey Heng: https://github.com/SomavateyHeng7/PlanIT.git
 
 
 <h1>Screen 1: Homepage </h1> 
