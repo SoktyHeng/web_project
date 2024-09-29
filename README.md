@@ -24,13 +24,15 @@ The "About Us" page introduces PlanIT's purpose, helping users discover and crea
 
 <h1>Screen 3: Contact</h1> 
 
-
+![Contact](./contact.png)
 
 A contact page with a form where users can submit queries.
 
 <h1>Screen 4: Attendee Profile </h1> 
 
 ![Profile](./screen4.png)
+![Profile](./profile.png)
+
 
 Profile page for users to update their profile picture, name, and email information.
 
