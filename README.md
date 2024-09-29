@@ -1,4 +1,9 @@
-# web_project
+#Project02 : PlanIT Event Management System
+Team member
+LeangHour Ly: https://github.com/llh1230507/web_project
+Sokty Heng:
+Somavatey Heng:
+
 
 <h1>Screen1: </h1> 
 The homepage welcomes users with a banner inviting them to explore various events. Event cards display details like the event name, date, and description.
