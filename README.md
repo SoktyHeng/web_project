@@ -72,7 +72,7 @@ Event creation page requiring inputs for the event name, date, start and end tim
 
 Event details page showing full event descriptions, ticket information, reviews, and a form to add a new review.
 
-<h1>Screen11 : Event Modification </h1> 
+<h1>Screen 11 : Event Modification </h1> 
 
 ![Event ](./screen11.png)
 
