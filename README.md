@@ -54,23 +54,42 @@ Admin dashboard showing metrics like the total number of events, attendees, upco
 
 <h1>Screen8 : Event Dashboard </h1> 
 
+![About Us](./screen8.png)
 
 Event dashboard where all created events are listed with an option to create a new event.
 
 <h1>Screen9 : Event Creation </h1> 
+
+![Event](./screen9.png)
+
 Event creation page requiring inputs for the event name, date, start and end times, location, ticket price, and capacity. Can only be accessed by organizer.
 
 <h1>Screen10 : Event detail </h1> 
+
+![Event](./screen10.png)
+
 Event details page showing full event descriptions, ticket information, reviews, and a form to add a new review.
 
 <h1>Screen11 : Event Modification </h1> 
+
+![Event ](./screen11.png)
+
 Event editing page with fields to modify the event name, date, start and end times, location, ticket price, and capacity.
 
 <h1>Screen 12 : Organizer Info </h1> 
+
+![Info](./screen12.png)
+
 Same as Screen 4 —allows users to edit their profile information.
 
 <h1>Screen 13 : View event and Purchase Ticket </h1> 
+
+![Event](./screen15.png)
+
 Ticket purchase page with a button to buy tickets for an event and event detail.
 
 <h1>Screen 14 : Payment page </h1> 
+
+![About Us](./screen16.png)
+
 Payment page for entering card details like card number, expiration date, and CVV to complete a purchase.
