@@ -7,7 +7,7 @@
 
 LeangHour Ly: https://github.com/llh1230507/web_project
 
-Sokty Heng:
+Sokty Heng: https://github.com/SoktyHeng/web_project
 
 Somavatey Heng:
 
