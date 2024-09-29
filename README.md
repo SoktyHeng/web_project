@@ -11,6 +11,9 @@ Somavatey Heng:
 
 
 <h1>Screen1: </h1> 
+
+![Dashboard](./screen01.png)
+
 The homepage welcomes users with a banner inviting them to explore various events. Event cards display details like the event name, date, and description.
 
 <h1>Screen2: </h1> 
