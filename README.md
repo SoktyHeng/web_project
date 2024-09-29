@@ -24,7 +24,7 @@ The "About Us" page introduces PlanIT's purpose, helping users discover and crea
 
 <h1>Screen 3: Contact</h1> 
 
-![Contact](./screen3.png)
+
 
 A contact page with a form where users can submit queries.
 
@@ -46,25 +46,25 @@ Login page where users sign in with their email and password.
 
 Registration page allowing users to select a role (attendee or organizer) and provide personal details such as name, email, password, and profile picture.
 
-<h1>Screen7: Dashboard </h1> 
+<h1>Screen 7: Dashboard </h1> 
 
 ![Dashboard](./screen7.png)
 
 Admin dashboard showing metrics like the total number of events, attendees, upcoming and past events, and revenue, alongside a bar chart visualizing event and attendee data over months.
 
-<h1>Screen8 : Event Dashboard </h1> 
+<h1>Screen 8 : Event Dashboard </h1> 
 
 ![About Us](./screen8.png)
 
 Event dashboard where all created events are listed with an option to create a new event.
 
-<h1>Screen9 : Event Creation </h1> 
+<h1>Screen 9 : Event Creation </h1> 
 
 ![Event](./screen9.png)
 
 Event creation page requiring inputs for the event name, date, start and end times, location, ticket price, and capacity. Can only be accessed by organizer.
 
-<h1>Screen10 : Event detail </h1> 
+<h1>Screen 10 : Event detail </h1> 
 
 ![Event](./screen10.png)
 
